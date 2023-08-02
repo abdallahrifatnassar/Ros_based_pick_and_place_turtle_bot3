@@ -1,7 +1,10 @@
 # Background: 
 
 Mobile robots have become indispensable in industry, especially in tasks that pose a threat to humans’ lives, this is due to the advancements in the building blocks of the mobile robots’ navigation namely: perception, mapping, localization, cognition, path planning, and motion control [1]. The project addresses the programming of a mobile robot to pick and place hazardous containers from and to specific points (navigating) through specific lanes. In order to achieve this goal, some technical requirements have to be fulfilled by the robot:
-1. Onboard LIDAR     2. Vision system     3. Differential drive     4. Manipulator
+1. Onboard LIDAR
+2. Vision system
+3. Differential drive
+4. Manipulator
 
 # Objective: 
 
